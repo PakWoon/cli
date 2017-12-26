@@ -1,6 +1,6 @@
 {
   "name": "pakwoon-cli",
-  "version": "0.1.8",
+  "version": "1.0.0",
   "description": "A simple CLI for creating your projects",
   "bin": {
     "pkw": "bin/pakwoon"
